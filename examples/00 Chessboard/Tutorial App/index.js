@@ -32,7 +32,7 @@ export default class ChessboardTutorialApp extends Component {
           <b><a href='https://github.com/gaearon/react-dnd/tree/master/examples/00%20Chessboard/Tutorial%20App'>Browse the Source</a></b>
         </p>
         <p>
-          This is a sample app you'll build as you work through the <a href='docs-tutorial.html'>tutorial</a>.
+          This is a sample app you\'ll build as you work through the <a href='docs-tutorial.html'>tutorial</a>.
         </p>
         <p>
           It illustrates creating the drag sources and the drop targets, using the monitors to query the current drag state, and customizing the drag previews.
